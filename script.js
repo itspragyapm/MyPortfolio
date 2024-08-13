@@ -58,6 +58,8 @@ $(document).ready(function () {
       "Python Developer",
       "Content Creator",
       "Web Designer"
+
+      
     ],
     typeSpeed: 100,
     backSpeed: 60,
